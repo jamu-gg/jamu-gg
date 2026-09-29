@@ -49,7 +49,7 @@ SYSTEM_INFO:
   affiliation : Siber School
   location    : Earth
   status      : ONLINE
-  uptime      : 24/7 (ditenagai kopi dan rasa penasaran)
+  Quote       : "I'm not single, I'm just an open project waiting for right contributor to submit a clean pull request"
 
 RESEARCH_NODE:
   primary     : Machine Learning & Mobile Development
